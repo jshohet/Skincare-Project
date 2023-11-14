@@ -1,0 +1,21 @@
+[
+  {
+    "service": "Waxing services",
+    "smallImage": "img/skincare_hero.png",
+    "smallImageAlt": "Woman shaping another person's eyebrows.",
+    "serviceDescription": "Eyebrow shaping/maintenance|Lip/Chin|Full/half leg/arm|High/Classic/Brazilian bikini|Back"
+  },
+  {
+    "service": "Facial",
+    "smallImage": "img/skincare_hero.png",
+    "smallImageAlt": "Woman shaping another person's eyebrows.",
+    "serviceDescription": "Anti-aging treatments (ultrasonic, restorative, and vitaminic)|Acne facial|Basic facial|Back facial"
+  },
+  
+  {
+    "service": "Eyelash extensions",
+    "smallImage": "img/skincare_hero.png",
+    "smallImageAlt": "Woman shaping another person's eyebrows.",
+    "serviceDescription": "If you'd like to volunteer your time as a model please make an appointment!"
+  }
+]

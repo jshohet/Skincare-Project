@@ -1,0 +1,16 @@
+{
+  "name": "skincare-project",
+  "version": "1.0.0",
+  "description": "Marina's Skincare Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josef Shohet",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.0",
+    "jqueryui": "^1.11.1",
+    "js-datepicker": "^5.18.2"
+  }
+}
